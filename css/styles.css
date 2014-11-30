@@ -8,7 +8,7 @@
   color: #ce5f5f;
 }
 .font1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Helvetica', 'Arial', sans-serif;
 }
 .bold {
   font-weight: bold;
@@ -20,7 +20,7 @@
   background-size: cover;
 }
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Helvetica', 'Arial', sans-serif;
   background-image: url('../img/background.jpg');
   background-attachment: fixed;
   background-repeat: repeat-x;
